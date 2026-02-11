@@ -175,11 +175,11 @@ Link
 Link
 
 ## 📸 Screenshots
-![App Screenshot](screenshot.png)
+
 
 ## 🧠 AI Prompt Specification
-Explanation
 
+The full structured prompt sequence and architectural specification can be found in [spec.md](spec.md).
 
 🙌 Author
 
