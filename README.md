@@ -168,10 +168,18 @@ Scaling across all sports globally
 
 The long-term goal is to build a fan-powered digital infrastructure that evolves naturally with conversation.
 
-📄 License
+## 🚀 Live Demo
+Link
 
-This project is currently in development.
-License to be determined.
+## 🎥 Video Walkthrough
+Link
+
+## 📸 Screenshots
+![App Screenshot](screenshot.png)
+
+## 🧠 AI Prompt Specification
+Explanation
+
 
 🙌 Author
 
